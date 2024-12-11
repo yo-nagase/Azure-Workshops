@@ -41,7 +41,7 @@ https://microsoft.github.io/code-labs-jp/
 
 Azure のかなりの数のサービスのコンテンツです。英語ですが、皆さんなら読めるかと!
 
-https://microsoftcloudworkshop.com/
+https://leanonazure.net/
 
 ## What is What The Hack?
 
